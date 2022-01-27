@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "347984040066",
+    "project_id": "fooddeliveryappbyflutter",
+    "storage_bucket": "fooddeliveryappbyflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347984040066:android:84e9f75515fe2040aee49b",
+        "android_client_info": {
+          "package_name": "online.digistacks.foodsellerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347984040066-m244tq7oet2uitjolp6uue6e1af1t24s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaZgzQzz9J0Lfp8K7DIFGj63BgpdEGY-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347984040066-m244tq7oet2uitjolp6uue6e1af1t24s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
